@@ -1,0 +1,6 @@
+graymold
+mycosphaerella_fragariae
+leafblight
+leafspot
+anthracnose
+leafscorch
